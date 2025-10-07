@@ -1,0 +1,18 @@
+# CODEOWNERS
+# パスパターンと責任者をここに記載します。例:
+# ドキュメントは @your-org/docs-team が担当
+# コードは @your-org/core-team が担当
+
+# 全体のデフォルトオーナー
+* @your-org/core-team
+
+# ドキュメント
+/docs/ @your-org/docs-team
+
+# ワークフローや CI 設定
+.github/workflows/ @your-org/devops
+
+# 個別ファイルの例
+# package.json @your-org/frontend-team
+
+# 注意: CODEOWNERS の更新はリポジトリに適用されます。組織のチーム名・個人名に置き換えてください。

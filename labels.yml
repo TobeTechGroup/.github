@@ -1,0 +1,21 @@
+# 推奨ラベル一覧（例）
+# このファイルはラベル一括作成スクリプトや GitHub API で利用できます。
+labels:
+  - name: bug
+    color: d73a4a
+    description: バグや不具合
+  - name: enhancement
+    color: a2eeef
+    description: 機能追加や改善
+  - name: documentation
+    color: 0075ca
+    description: ドキュメント関連
+  - name: good first issue
+    color: 7057ff
+    description: 初心者向けのタスク
+  - name: help wanted
+    color: 008672
+    description: 外部の助けを募集
+  - name: discussion
+    color: c2e0c6
+    description: 議論用

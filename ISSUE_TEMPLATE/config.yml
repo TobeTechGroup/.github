@@ -1,0 +1,7 @@
+blank_issues_enabled: false
+contact_links:
+  - name: セキュリティ報告
+    # GitHub のテンプレートでは URL に http/https スキームが必要です。
+    # 実運用では組織のセキュリティ連絡ページや内部フォームを指定してください。
+    url: https://your-org.example.com/security
+    about: "セキュリティ脆弱性やセンシティブな情報の報告はこちら（メール: security@your-org.example.com）"
